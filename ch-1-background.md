@@ -7,3 +7,8 @@ Unfortunately, they did not anticipate the need for specificity in their incanta
 The hellish landscape changed overnight. The River Styx flooded, causing temporary bouts of memory loss to nearby residents before it became diluted and lost much of its potency. Gorges and canyons disappeared in the waves. Once-mighty mountains became tiny islands. The water continued to rise in the following weeks, and soon the landscape was a massive unnatural ocean. The entire ecosystem was thrown into sharp disarray, grinding the war effort to a stop.
 
 But devils and demons are nothing if not enterprising and adaptive. Over the coming months, orders began to pour into the forges for vehicles better suited to travel and combat on water. Soon the new Stygian Sea was teeming with naval fleets, and the war carried on, still fueled by souls but now being waged on the decks of infernal ships.
+
+---
+
+| [Chapter 2: Infernal Ships](ch-2-infernal-ships.md) ➡️ |
+|-:|
