@@ -25,3 +25,8 @@ While a vehicle component is anointed in this manner, the vehicle gains the foll
 - Anointed vehicle weapon attacks are magical.
 
 An anointed vehicle component trait only functions while you are within 30 feet of the anointed component and are not incapacitated. Each component remains anointed for 8 hours, until the ship or the component is destroyed, or until the dragon blood is removed by any means, after which the magic fades until more dragon blood is shed. This charm vanishes from you when you die.
+
+---
+
+| ⬅️ [Chapter 3: Creatures](ch-3-creatures.md) |
+|:-|
