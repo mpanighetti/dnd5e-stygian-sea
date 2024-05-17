@@ -211,3 +211,8 @@ Regardless of their relationship to Xaltrax, zir courtiers tend to be a motley c
 |  4  | **Power-Hungry.** Xaltrax's business savvy and political acumen often draw bottom feeders trying to take some of zir power for their own. They will do whatever is necessary for even the smallest taste of Xaltrax's influence, and the sovereign delights in stringing them along. |
 |  5  | **Spy.** As Xaltrax's power grows, competitors in the Stygian Sea and elsewhere desire to see zir removed from the board. Agents from across the planes are sent to investigate the concubus, find weaknesses to exploit, and seize opportunities for their employers to negotiate favorable business deals. It is unclear how aware Xaltrax is of these spies and their true intents, but the sovereign may not care — or zie may take the apparent jealousy of those who sent their agents as a professional compliment. |
 |  6  | **Devoted.** Occasionally, an intelligent creature may simply examine Stygian politics and come away liking what they see, pledging fealty to Xaltrax and helping zir efforts come to fruition. The devoted tend to be the most dangerous of the courtiers, and will fight for their sovereign (both on the political landscape as well as the battlefield) with more fervor than even a charmed creature or fanatical follower. |
+
+---
+
+| ⬅️ [Chapter 2: Infernal Ships](ch-2-infernal-ships.md) | [Chapter 4: Aquatic Charms](ch-4-aquatic-charms.md) ➡️ |
+|:-|-:|
