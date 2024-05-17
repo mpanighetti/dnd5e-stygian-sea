@@ -247,3 +247,8 @@ Move up to the speed of the ship's propeller. If the helm is destroyed, the ship
 - **Speed (water):** 120 ft.
 
 _**Rev Motor.**_ If the skate moves at least 60 feet on its turn, it does not provoke opportunity attacks.
+
+---
+
+| ⬅️ [Chapter 1: Background](ch-1-background.md) | [Chapter 3: Creatures](ch-3-creatures.md) ➡️ |
+|:-|-:|
