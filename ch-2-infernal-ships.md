@@ -90,6 +90,8 @@ Note that infernal ships powered by souls have no immunity to exhaustion, as inf
 
 ### [Bathýs](https://github.com/mpanighetti/dnd5e-monsters/blob/main/vehicles/bathys.md)
 
+#### Description
+
 If one squints, the Bathýs superficially resembles a sailing vessel one might see on the oceans of the Material Plane, but a closer examination reveals the vessel to be mechanical in design and built of a dark infernal iron. Its hull is assembled from scraps of motorized land vehicles, with large metal beams twisted into tight braids in the vague shape of a ship, but pulsing with the churning of gears and an infusion of chaotic magical energy that provides buoyancy.
 
 The Bathýs accounts for the Stygian Sea's lack of predicable winds with an enchanted sail that allows for movement in still or opposing winds. To power this magic, a furnace in the belly of the ship fuels the mast and sails with the energy of consumed souls.
@@ -197,6 +199,8 @@ _**Retract.**_ The winch's operator can use a ship action to retract the harpoon
 _**Cannon Ball (Recharge 5-6).** Ranged Weapon Attack:_ +6 to hit, range 600/2,400 ft., one target. _Hit:_ 44 (8d10) bludgeoning damage.
 
 ### [Skate](https://github.com/mpanighetti/dnd5e-monsters/blob/main/vehicles/skate.md)
+
+#### Description
 
 With its lack of weaponry, this boat is seemingly not a major threat to larger vessels of war. That impression fades quickly, however, as a skate can catch its foes by surprise with its speed and maneuverability, allowing it to nimbly dodge enemy fire and close in on its prey. Small fleets of skates can bring down a ship quickly by swarming and surrounding it, then boarding it to take out the crew in close-quarters combat rather than trying to overpower their siege weapons.
 

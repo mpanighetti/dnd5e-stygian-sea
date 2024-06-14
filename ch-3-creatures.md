@@ -6,6 +6,8 @@ With a modified setting comes some new faces. An infernal ship powered by souls 
 
 ### [Ag'dramur](https://github.com/mpanighetti/dnd5e-monsters/blob/main/fiends/agdramur.md)
 
+#### Description
+
 Just as an injured animal can still be a threat, so too is a marilith with fewer arms no less of a concern to mortals and fiends alike. Ag'dramur continues to wield her four cutlasses with a ferocity, laying waste to her enemies before they have a chance to count her limbs.
 
 #### Background
@@ -57,6 +59,8 @@ _**Teleport.**_ Ag'dramur magically teleports, along with any equipment she is w
 _**Parry.**_ Ag'dramur adds 4 to her AC against one melee attack that would hit her. To do so, she must see the attacker and be wielding a melee weapon.
 
 ### [The Great Undying](https://github.com/mpanighetti/dnd5e-monsters/blob/main/humanoid/the-great-undying.md)
+
+#### Description
 
 Amidst the chaos of the changing seascape, an opportunistic pirate, tired of wandering the lands and protecting what remained of her tattered soul from hellish fiends, commandeered a vehile and converted it into a mighty sailing vessel. She christened her new ship the Bathýs and began patrolling the new Stygian Sea, taking up a career of piracy as she did in life. Now in her element once again, she has turned the tide against her oppressors and lives freely in the infernal realm, plundering what she can to survive and thrive as she tries to build an armada and wrest more power from the cadre of devilish rulers as they struggle to hold their positions.
 
@@ -120,6 +124,8 @@ _**Bite.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 7 
 
 ### Shuv'Zlor
 
+#### Description
+
 As two sides clash on the high seas of Hell, the dragon god Tiamat continues her silent observing, sending her agents out across the fiendish realm to carry out her machinations. Though not as strong in magical ability as her other draconic followers, Shuv'Zlor puts his natural talents to work in the new setting.
 
 #### Background
@@ -141,6 +147,8 @@ Shuv'Zlor's ship does not have the ability to be fueled by souls, and thus has n
 Shuv'Zlor uses a _white abishai_ stat block.
 
 ### Xaltrax
+
+#### Description
 
 In any war, there is a profiteer benefiting from both sides of the conflict. Xaltrax's magnanimous business offerings to demons and devils alike belie a more sinister quest for personal gain.
 
