@@ -4,6 +4,8 @@ Infernal contracts may take on a more nautical flavor on the Stygian Sea, with a
 
 ## [Charm of the Depths](https://github.com/mpanighetti/dnd5e-feats/blob/main/supernatural-gifts/charms/charm-of-the-depths.md)
 
+_Supernatural Gift (Charm)_
+
 Rows of gashes appear on the sides of your neck forming fishlike gills, and the skin between your fingers and toes (or equivalent digits) grows into webbing. These changes grant you the following traits:
 
 - You gain a swimming speed equal to your walking speed.
@@ -13,6 +15,8 @@ Rows of gashes appear on the sides of your neck forming fishlike gills, and the 
 This charm vanishes from you when you die.
 
 ## [Charm of Dragon Blood](https://github.com/mpanighetti/dnd5e-feats/blob/main/supernatural-gifts/charms/charm-of-dragon-blood.md)
+
+_Supernatural Gift (Charm)_
 
 The evil dragon god Tiamat has granted you a boon, channeling her divine energy directly into your bloodstream. Your veins pulse with a faint orange glow of infernal fire, and you are now considered to have dragon blood, granting you draconic ancestry for the purpose of any effect which requires this trait (if you did not already have draconic ancestry).
 
