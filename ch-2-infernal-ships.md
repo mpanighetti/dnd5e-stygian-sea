@@ -137,7 +137,7 @@ _Gargantuan vehicle (100 ft. by 20 ft.)_
 
 - **Immunities:** Blinded, Charmed, Deafened, Fire, Frightened, Incapacitated, Paralyzed, Petrified, Poison, Prone, Psychic, Stunned, Unconscious
 
-#### Special traits
+#### Traits
 
 _**Magic Weapons.**_ The Bathýs' weapon attacks are magical.
 
@@ -220,7 +220,7 @@ _Large vehicle (10 ft. by 5 ft.)_
 
 - **Immunities:** Blinded, Charmed, Deafened, Fire, Frightened, Paralyzed, Petrified, Poison, Psychic, Stunned, Unconscious
 
-#### Special traits
+#### Traits
 
 _**Juke**_. If the skate is able to move, the crew can use its reaction to grant the skate advantage on a Dexterity saving throw.
 
