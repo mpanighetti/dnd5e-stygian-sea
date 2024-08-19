@@ -1,6 +1,6 @@
 # The Stygian Sea
 
-This is a rules supplement for running a flooded Avernus in Dungeons & Dragons 5th Edition, including rules for creating infernal ships, examples of some of the vehicles and creatures a party might encounter on the Stygian Sea, and some aquatic charms a fiend can offer in this modified setting.
+This is a rules supplement for exploring a flooded Avernus in Dungeons & Dragons 5th Edition, including rules for creating infernal ships, examples of some of the vehicles and creatures a party might encounter on the Stygian Sea, and some aquatic charms a fiend can offer in this modified setting.
 
 ## Table of Contents
 
@@ -51,5 +51,7 @@ _Dungeon Master's Guide (2014)_ © 2014 Wizards of the Coast LLC.
 _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 _Baldur's Gate: Descent into Avernus_ © 2019 Wizards of the Coast LLC.
+
+_[The Soul Moon](https://github.com/Jmanrules007/Soul-Moon)_ © 2020 Jon. Licensed under [CC NY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
 _Mordenkainen Presents: Monsters of the Multiverse_ © 2022 Wizards of the Coast LLC.
