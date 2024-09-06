@@ -151,7 +151,7 @@ On its turn, the Bathýs can take 3 actions, choosing from the options below. It
 
 **Move.** The ship can use its helm to move with its sails.
 
-**Use Harpoon Launcher.** The ship can fire, release, or retract its **harpoon launcher**.
+**Use Harpoon Launcher.** The ship can fire or retract its **harpoon launcher**.
 
 #### Hull
 
@@ -187,7 +187,7 @@ _**Ballista.**_ _Ranged Weapon Attack:_ +6 to hit, range 120/480 ft., one target
 
 _**Harpoon.** Ranged Weapon Attack:_ +10 to hit, range 40 ft., one creature or vehicle of size category Large or greater. _Hit:_ 22 (4d10) piercing damage, and unless the target takes no damage from the attack, the target is grappled (escape DC 16). If the target is a creature, it is restrained until the grapple ends. The harpoon can grapple only one target at a time.
 
-_**Retract.**_ The winch's operator can use a ship action to retract the harpoon on its chain, pulling whatever it's holding to an unoccupied space next to the Bathýs. As a part of this action, the operator can choose to also release the creature or vehicle grappled by the harpoon. If nothing is grappled by the chain, it can be retracted onto the ship's deck.
+_**Retract.**_ The winch's operator can use a ship action to retract the harpoon on its chain, pulling whatever it's holding to an unoccupied space next to the Bathýs. As a part of this action, the operator can choose to also release the creature or vehicle grappled by the harpoon. If nothing is grappled by the harpoon, it can be retracted onto the ship's deck.
 
 #### Weapon: Infernal Cannon
 
