@@ -2,7 +2,7 @@
 
 Infernal contracts may take on a more nautical flavor on the Stygian Sea, with archdevils offering supernatural gifts providing great benefits in the hellish waters — if the price is right.
 
-## [Charm of the Depths](https://github.com/mpanighetti/dnd5e-feats/blob/main/supernatural-gifts/charms/charm-of-the-depths.md)
+## Charm of the Depths
 
 _Supernatural Gift (Charm)_
 
@@ -14,7 +14,7 @@ Rows of gashes appear on the sides of your neck forming fishlike gills, and the 
 
 This charm vanishes from you when you die.
 
-## [Charm of Dragon Blood](https://github.com/mpanighetti/dnd5e-feats/blob/main/supernatural-gifts/charms/charm-of-dragon-blood.md)
+## Charm of Dragon Blood
 
 _Supernatural Gift (Charm)_
 
