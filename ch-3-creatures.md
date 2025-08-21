@@ -4,7 +4,7 @@ With a modified setting comes some new faces. An infernal ship powered by souls 
 
 ## Sample Creatures
 
-### [Ag'dramur](https://github.com/mpanighetti/dnd5e-monsters/blob/main/fiends/agdramur.md)
+### Ag'dramur
 
 #### Description
 
@@ -58,7 +58,7 @@ _**Teleport.**_ Ag'dramur magically teleports, along with any equipment she is w
 
 _**Parry.**_ Ag'dramur adds 4 to her AC against one melee attack that would hit her. To do so, she must see the attacker and be wielding a melee weapon.
 
-### [The Great Undying](https://github.com/mpanighetti/dnd5e-monsters/blob/main/humanoid/the-great-undying.md)
+### The Great Undying
 
 #### Description
 

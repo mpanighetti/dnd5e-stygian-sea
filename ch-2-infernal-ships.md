@@ -88,7 +88,7 @@ Note that infernal ships powered by souls have no immunity to exhaustion, as inf
 
 ## Sample Infernal Ships
 
-### [Bathýs](https://github.com/mpanighetti/dnd5e-monsters/blob/main/vehicles/bathys.md)
+### Bathýs
 
 #### Description
 
@@ -196,7 +196,7 @@ _**Retract.**_ The winch's operator can use a ship action to retract the harpoon
 
 _**Cannon Ball (Recharge 5-6).** Ranged Weapon Attack:_ +6 to hit, range 600/2,400 ft., one target. _Hit:_ 44 (8d10) bludgeoning damage.
 
-### [Skate](https://github.com/mpanighetti/dnd5e-monsters/blob/main/vehicles/skate.md)
+### Skate
 
 #### Description
 
